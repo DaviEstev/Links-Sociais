@@ -19,9 +19,9 @@ O desafio consistia em fazer uma simpes página de links sociais, achei o projet
 
 ### Captura de tela
 
-![](https://github.com/DaviEstev/Links-Sociais/assets/111655855/24eb278d-3b7f-48ad-8f04-99c583832bc2)
+![](https://github.com/DaviEstev/Links-Sociais/assets/111655855/24eb278d-3b7f-48ad-8f04-99c583832bc2);
 
-###Links
+### Links
 
 - URL do site ativo: [Adicione o URL do site ativo aqui](https://daviestev.github.io/Links-Sociais/)
 
